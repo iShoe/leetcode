@@ -1,4 +1,8 @@
 """
+LC #242 - Valid Anagram (Easy)
+Tags: hash-table, string, sorting
+Time: O(n), Space: O(1)
+
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
  
