@@ -42,3 +42,10 @@ class Solution:
         
         return -1
 
+
+"""
+- mid calculation (include start_
+- while condition to exit when start crossed end
+- adjusting start/end one away from mid
+"""
+
